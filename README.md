@@ -5,7 +5,7 @@ I'm a
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](https://likui.info/)
+- 💼 FrontEnd Engineer at [Blog](https://likui.info/)
 
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
 
