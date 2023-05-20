@@ -40,4 +40,4 @@ I'm a
 
 
 
-![](https://raw.githubusercontent.com/ilikiuii/ilikiuii/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/ilikiui/ilikiui/main/assets/github-contribution-grid-snake.svg)
