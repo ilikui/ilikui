@@ -40,4 +40,4 @@ I'm a
 ---
 
 
-![]([https://raw.githubusercontent.com/ilikui/ilikui/main/assets/github-contribution-grid-snake.svg](https://github.com/ilikui/home/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg)https://github.com/ilikui/home/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg)
+![](https://github.com/ilikui/home/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg)
