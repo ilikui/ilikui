@@ -108,6 +108,11 @@
 ## 05 / 每一次提交，都是一点点积累
 
 <div align="center">
+  <p><strong>GitHub 贡献热力图</strong></p>
+  <img src="https://ghchart.rshah.org/7C3AED/ilikui" alt="ilikui 的 GitHub 贡献热力图" width="100%">
+</div>
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilikui/ilikui/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ilikui/ilikui/output/github-contribution-grid-snake.svg">
