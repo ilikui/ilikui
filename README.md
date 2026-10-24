@@ -5,6 +5,7 @@
 <p>
   <a href="https://likui.info/"><img src="https://img.shields.io/badge/PORTFOLIO-likui.info-8B5CF6?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"></a>
   <a href="https://wiki.likui.info/"><img src="https://img.shields.io/badge/DIGITAL_GARDEN-wiki.likui.info-0891B2?style=for-the-badge&logo=bookstack&logoColor=white" alt="Digital Garden"></a>
+  <a href="https://likui.info/#spaces"><img src="https://img.shields.io/badge/TECH_SPACES-技术站点-0F766E?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Technical spaces"></a>
   <a href="https://github.com/ilikui"><img src="https://img.shields.io/badge/OPEN_SOURCE-@ilikui-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
@@ -85,6 +86,7 @@ I'm interested in the space between **engineering things that work** and **build
 | 入口 | 链接 | 内容 |
 |---|---|---|
 | 🌐 个人主页 | [likui.info](https://likui.info/) | 个人项目、技术站点与书影音入口 |
+| 🧭 技术站点导航 | [likui.info/#spaces](https://likui.info/#spaces) | 直接进入技术站、专题与工具入口 |
 | 👋 About | [about.likui.info](https://about.likui.info/) | 个人介绍与主页内容 |
 | 🌱 数字花园 | [wiki.likui.info](https://wiki.likui.info/) | 笔记、专题、阅读资料与知识关联 |
 | 💬 Memos | [blog.zzek.cn/memos](https://blog.zzek.cn/memos/) | 灵感、短笔记与日常记录 |
