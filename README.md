@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ilikui/ilikui/main/assets/profile-banner.svg" alt="Li Kui · Build small. Think deeply. Connect ideas." width="100%">
+<img src="https://raw.githubusercontent.com/ilikui/ilikui/main/assets/profile-banner.svg" alt="Li Kui | Build small. Think deeply. Connect ideas." width="100%">
 
-<h1>你好，我是 Li Kui</h1>
+<h1>Hi, I'm Li Kui</h1>
 
-<p><strong>汽车电子与嵌入式软件 · 知识工程 · 开源创造</strong></p>
+<p><strong>Automotive Software & Embedded Engineering · Knowledge Engineering · Open Source</strong></p>
 
-<p>把复杂问题拆解清楚，把零散知识连接起来，把想法做成可运行的作品。</p>
+<p>I break down complex problems, connect scattered ideas, and turn what I learn into working projects.</p>
 
 <p>
-  <a href="https://likui.info/"><img src="https://img.shields.io/badge/个人主页-likui.info-7C3AED?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="个人主页"></a>
-  <a href="https://wiki.likui.info/"><img src="https://img.shields.io/badge/数字花园-wiki.likui.info-0891B2?style=for-the-badge&logo=bookstack&logoColor=white" alt="数字花园"></a>
-  <a href="https://likui.info/#spaces"><img src="https://img.shields.io/badge/技术站点-TECH_SPACES-0F766E?style=for-the-badge&logo=stackblitz&logoColor=white" alt="技术站点"></a>
-  <a href="https://github.com/ilikui?tab=repositories"><img src="https://img.shields.io/badge/开源项目-ALL_REPOSITORIES-24292F?style=for-the-badge&logo=github&logoColor=white" alt="全部仓库"></a>
+  <a href="https://likui.info/"><img src="https://img.shields.io/badge/PERSONAL_SITE-likui.info-7C3AED?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Personal website"></a>
+  <a href="https://wiki.likui.info/"><img src="https://img.shields.io/badge/DIGITAL_GARDEN-wiki.likui.info-0891B2?style=for-the-badge&logo=bookstack&logoColor=white" alt="Digital garden"></a>
+  <a href="https://likui.info/#spaces"><img src="https://img.shields.io/badge/TECH_SPACES-EXPLORE-0F766E?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Technical spaces"></a>
+  <a href="https://github.com/ilikui?tab=repositories"><img src="https://img.shields.io/badge/OPEN_SOURCE-ALL_REPOSITORIES-24292F?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1400&color=67E8F9&center=true&vCenter=true&width=820&lines=Automotive+Software+%26+Embedded+Engineering;Knowledge+Should+Be+Connected%2C+Not+Just+Stored;Learn+Deeply.+Build+Thoughtfully.+Share+Openly." alt="Engineering, knowledge and open source">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1400&color=67E8F9&center=true&vCenter=true&width=820&lines=Automotive+Software+%26+Embedded+Engineering;Knowledge+Should+Be+Connected%2C+Not+Just+Stored;Learn+Deeply.+Build+Thoughtfully.+Share+Openly." alt="Engineering, knowledge, and open source">
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=ilikui&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views">
@@ -27,41 +27,41 @@
 
 ---
 
-## 关于我 · About
+## About Me
 
-我关注**工程实践**与**知识系统**的交汇点：一边持续学习汽车电子、嵌入式软件与开发工具，一边把学习过程整理成可检索、可复用、可持续迭代的知识资产。
+I work at the intersection of **engineering practice and knowledge systems**. I explore automotive electronics, embedded software, and developer tools while turning what I learn into searchable, reusable, and continuously improving knowledge.
 
-- **汽车电子与嵌入式**：Classic AUTOSAR、车载通信、诊断、嵌入式 C、MCU 软件。
-- **知识工程**：数字花园、卢曼卡片盒、渐进式阅读、间隔重复与知识图谱。
-- **开发与自动化**：实用工具、工程化示例、文档体系、CI/CD 与自动化工作流。
-- **开源与持续学习**：把问题、解决方案和实践经验转化为教程、图表与可运行项目。
+- **Automotive & Embedded Systems:** Classic AUTOSAR, in-vehicle communication, diagnostics, embedded C, and MCU software.
+- **Knowledge Engineering:** Digital gardens, Zettelkasten, progressive reading, spaced repetition, and knowledge graphs.
+- **Development & Automation:** Practical tools, engineering examples, documentation systems, CI/CD, and automated workflows.
+- **Open Source & Lifelong Learning:** Turning problems, solutions, and hands-on experience into tutorials, diagrams, and runnable projects.
 
-> 我的目标不只是“记录学过什么”，而是让知识能够被找到、被理解、被验证，并最终用于创造。
+> My goal is not simply to record what I have learned, but to make knowledge discoverable, understandable, verifiable, and useful for creating things.
 
-## 重点项目 · Selected Work
+## Selected Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🚘 AutomaticDriving</h3>
-      <p>自动驾驶学习路线、核心概念与优质学习资源，逐步构建从感知到规划控制的知识地图。</p>
+      <p>A structured learning path for autonomous driving, bringing together core concepts and high-quality resources to map the journey from perception to planning and control.</p>
       <a href="https://github.com/ilikui/AutomaticDriving"><img src="https://img.shields.io/badge/EXPLORE-AutomaticDriving-0F766E?style=for-the-badge&logo=github" alt="Explore AutomaticDriving"></a>
     </td>
     <td width="50%" valign="top">
       <h3>🌱 NotesBook</h3>
-      <p>数字花园与知识组织实践，将阅读、专题笔记、链接关系和持续学习连接起来。</p>
+      <p>A digital garden and knowledge organization project connecting reading, topic notes, concept links, and continuous learning.</p>
       <a href="https://github.com/ilikui/NotesBook"><img src="https://img.shields.io/badge/EXPLORE-NotesBook-6D28D9?style=for-the-badge&logo=github" alt="Explore NotesBook"></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🗂️ Memo</h3>
-      <p>围绕闪卡与间隔重复的学习工具，探索让知识从“看过”走向“记住、理解与应用”。</p>
+      <p>A learning tool built around flashcards and spaced repetition, exploring how knowledge can move from being seen to being remembered, understood, and applied.</p>
       <a href="https://github.com/ilikui/memo"><img src="https://img.shields.io/badge/EXPLORE-Memo-2563EB?style=for-the-badge&logo=github" alt="Explore Memo"></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🧰 编程学习仓库</h3>
-      <p>通过循序渐进的中文说明、示例代码、练习与图解，沉淀可复用的编程基础。</p>
+      <h3>🧰 Programming Learning Repositories</h3>
+      <p>Step-by-step tutorials with code examples, exercises, and diagrams designed to build reusable programming fundamentals.</p>
       <a href="https://github.com/ilikui/C"><img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"></a>
       <a href="https://github.com/ilikui/Python"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></a>
       <a href="https://github.com/ilikui/Java"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"></a>
@@ -70,33 +70,33 @@
   </tr>
 </table>
 
-## 我的数字空间 · Digital Spaces
+## Digital Spaces
 
 <table>
   <thead>
-    <tr><th>空间</th><th>用途</th><th>入口</th></tr>
+    <tr><th>Space</th><th>Purpose</th><th>Explore</th></tr>
   </thead>
   <tbody>
-    <tr><td>🌐 个人主页</td><td>个人项目、技术站点与书影音导航</td><td><a href="https://likui.info/">likui.info</a></td></tr>
-    <tr><td>🧭 技术站点</td><td>按技术领域进入不同学习站点</td><td><a href="https://likui.info/#spaces">Explore spaces →</a></td></tr>
-    <tr><td>👋 About</td><td>个人介绍与内容入口</td><td><a href="https://about.likui.info/">about.likui.info</a></td></tr>
-    <tr><td>🌱 数字花园</td><td>长文笔记、专题知识与概念链接</td><td><a href="https://wiki.likui.info/">wiki.likui.info</a></td></tr>
-    <tr><td>💬 Memos</td><td>捕捉灵感、短笔记与日常想法</td><td><a href="https://blog.zzek.cn/memos/">Open Memos →</a></td></tr>
-    <tr><td>🧑‍💻 GitHub</td><td>源代码、学习项目与开源实验</td><td><a href="https://github.com/ilikui?tab=repositories">All repositories →</a></td></tr>
+    <tr><td>🌐 Personal Website</td><td>Projects, technical spaces, and books, films, and music</td><td><a href="https://likui.info/">likui.info</a></td></tr>
+    <tr><td>🧭 Technical Spaces</td><td>Learning hubs organized by technology and subject</td><td><a href="https://likui.info/#spaces">Explore spaces →</a></td></tr>
+    <tr><td>👋 About</td><td>Personal introduction and content directory</td><td><a href="https://about.likui.info/">about.likui.info</a></td></tr>
+    <tr><td>🌱 Digital Garden</td><td>Long-form notes, topic collections, and linked concepts</td><td><a href="https://wiki.likui.info/">wiki.likui.info</a></td></tr>
+    <tr><td>💬 Memos</td><td>Capturing ideas, short notes, and everyday observations</td><td><a href="https://blog.zzek.cn/memos/">Open Memos →</a></td></tr>
+    <tr><td>🧑‍💻 GitHub</td><td>Source code, learning projects, and open-source experiments</td><td><a href="https://github.com/ilikui?tab=repositories">All repositories →</a></td></tr>
   </tbody>
 </table>
 
-## 知识如何变成作品 · From Ideas to Work
+## From Ideas to Work
 
 <div align="center">
 
 ```mermaid
 flowchart LR
-    A[好奇与问题] --> B[阅读与探索]
-    B --> C[原子化笔记]
-    C --> D[建立概念连接]
-    D --> E[代码 / 图表 / 工具]
-    E --> F[发布、复盘与迭代]
+    A[Questions and Curiosity] --> B[Read and Explore]
+    B --> C[Atomic Notes]
+    C --> D[Connect Concepts]
+    D --> E[Code, Diagrams, and Tools]
+    E --> F[Publish, Reflect, and Iterate]
     F --> B
     classDef question fill:#312e81,stroke:#a78bfa,color:#fff
     classDef knowledge fill:#0f3440,stroke:#67e8f9,color:#e0f2fe
@@ -108,9 +108,9 @@ flowchart LR
 
 </div>
 
-我相信有价值的学习不是信息堆积，而是一个持续循环：**提出问题 → 理解原理 → 建立联系 → 动手验证 → 分享复用**。
+I believe meaningful learning is more than accumulating information. It is a continuous cycle: **ask questions → understand principles → connect ideas → test in practice → share and reuse**.
 
-## 技术工具箱 · Toolbox
+## Toolbox
 
 <div align="center">
 
@@ -132,7 +132,7 @@ flowchart LR
 
 </div>
 
-## GitHub 活跃度 · Activity
+## GitHub Activity
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ilikui&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=A78BFA&icon_color=67E8F9" alt="GitHub statistics">
@@ -141,13 +141,13 @@ flowchart LR
 
 <div align="center">
   <a href="https://github.com/ilikui?tab=activity"><img src="assets/activity-graph.svg" alt="GitHub public activity graph for ilikui" width="100%"></a>
-  <sub>图表由本仓库的 GitHub Actions 定时生成，展示公开事件；不代表私有贡献的完整统计。</sub>
+  <sub>Generated automatically by GitHub Actions from public GitHub events. It does not represent a complete count of private contributions.</sub>
 </div>
 
 <div align="center">
-  <p><strong>Contribution calendar</strong></p>
+  <p><strong>Contribution Calendar</strong></p>
   <img src="https://ghchart.rshah.org/7C3AED/ilikui" alt="GitHub contribution heatmap for ilikui" width="100%">
-  <p><strong>Contribution snake · GitHub Actions</strong></p>
+  <p><strong>Contribution Snake · GitHub Actions</strong></p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilikui/ilikui/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ilikui/ilikui/output/github-contribution-grid-snake.svg">
@@ -159,10 +159,10 @@ flowchart LR
 
 <div align="center">
 
-### 保持好奇，认真构建，持续连接。
+### Stay Curious. Build with Care. Keep Connecting.
 
 <sub>Build small. Think deeply. Connect ideas.</sub>
 
-<sub>代码是工具，作品是表达；持续积累，让每一次学习都成为下一次创造的起点。</sub>
+<sub>Code is a tool; projects are a form of expression. Let every learning experience become the starting point for the next creation.</sub>
 
 </div>
