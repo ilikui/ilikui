@@ -72,6 +72,29 @@ I'm interested in the space between **engineering things that work** and **build
   <a href="https://github.com/ilikui?tab=repositories"><strong>All repositories →</strong></a>
 </p>
 
+## 03 / My links · 我的链接
+
+<p align="center">
+  <a href="https://likui.info/"><img src="https://img.shields.io/badge/个人主页-likui.info-7C3AED?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="个人主页"></a>
+  <a href="https://about.likui.info/"><img src="https://img.shields.io/badge/About-个人介绍-2563EB?style=for-the-badge&logo=readme&logoColor=white" alt="About 个人介绍"></a>
+  <a href="https://wiki.likui.info/"><img src="https://img.shields.io/badge/知识花园-wiki.likui.info-0891B2?style=for-the-badge&logo=bookstack&logoColor=white" alt="知识花园"></a>
+  <a href="https://blog.zzek.cn/memos/"><img src="https://img.shields.io/badge/Memos-灵感与随记-0F766E?style=for-the-badge&logo=quicknote&logoColor=white" alt="Memos 灵感与随记"></a>
+  <a href="https://github.com/ilikui?tab=repositories"><img src="https://img.shields.io/badge/GitHub-全部仓库-24292F?style=for-the-badge&logo=github&logoColor=white" alt="全部 GitHub 仓库"></a>
+</p>
+
+| 入口 | 链接 | 内容 |
+|---|---|---|
+| 🌐 个人主页 | [likui.info](https://likui.info/) | 个人项目、技术站点与书影音入口 |
+| 👋 About | [about.likui.info](https://about.likui.info/) | 个人介绍与主页内容 |
+| 🌱 数字花园 | [wiki.likui.info](https://wiki.likui.info/) | 笔记、专题、阅读资料与知识关联 |
+| 💬 Memos | [blog.zzek.cn/memos](https://blog.zzek.cn/memos/) | 灵感、短笔记与日常记录 |
+| 🚗 自动驾驶 | [AutomaticDriving](https://github.com/ilikui/AutomaticDriving) | 自动驾驶学习路线与资料 |
+| 🧠 知识库 | [NotesBook](https://github.com/ilikui/NotesBook) | 数字花园与知识组织 |
+| 🗂️ 闪卡复习 | [Memo](https://github.com/ilikui/memo) | 闪卡与间隔重复学习 |
+| 🧰 所有开源项目 | [github.com/ilikui](https://github.com/ilikui?tab=repositories) | 查看全部公开仓库 |
+
+> 这些入口分别承载「展示 → 探索 → 记录 → 复习 → 创造」：主页负责导航，知识花园沉淀长内容，Memos 捕捉灵感，代码仓库把想法变成可运行的作品。
+
 ## 03 / How I connect ideas
 
 ```mermaid
