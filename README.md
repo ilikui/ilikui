@@ -140,7 +140,8 @@ flowchart LR
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilikui&theme=tokyo-night&hide_border=true&area=true&point=67E8F9&line=A78BFA" alt="GitHub activity graph" width="100%">
+  <a href="https://github.com/ilikui?tab=activity"><img src="assets/activity-graph.svg" alt="GitHub public activity graph for ilikui" width="100%"></a>
+  <sub>图表由本仓库的 GitHub Actions 定时生成，展示公开事件；不代表私有贡献的完整统计。</sub>
 </div>
 
 <div align="center">
