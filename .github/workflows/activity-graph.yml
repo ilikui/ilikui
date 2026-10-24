@@ -2,6 +2,12 @@ name: Update public activity graph
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/generate_activity_graph.py"
+      - ".github/workflows/activity-graph.yml"
   schedule:
     - cron: "23 */12 * * *"
 
