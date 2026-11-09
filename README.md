@@ -77,10 +77,10 @@ I work at the intersection of **engineering practice and knowledge systems**. I 
     <tr><th>Space</th><th>Purpose</th><th>Explore</th></tr>
   </thead>
   <tbody>
-    <tr><td>🌐 Personal Website</td><td>Projects, technical spaces, and books, films, and music</td><td><a href="https://likui.info/">likui.info</a></td></tr>
+    <tr><td>🌐 Personal Website</td><td>Projects, technical spaces, and books, films, and music</td><td><a href="https://m.likui.space/">likui.info</a></td></tr>
     <tr><td>🧭 Technical Spaces</td><td>Learning hubs organized by technology and subject</td><td><a href="https://likui.info/#spaces">Explore spaces →</a></td></tr>
-    <tr><td>👋 About</td><td>Personal introduction and content directory</td><td><a href="https://about.likui.info/">about.likui.info</a></td></tr>
-    <tr><td>🌱 Digital Garden</td><td>Long-form notes, topic collections, and linked concepts</td><td><a href="https://wiki.likui.info/">wiki.likui.info</a></td></tr>
+    <tr><td>👋 About</td><td>Personal introduction and content directory</td><td><a href="https://about.likui.space/">about.likui.info</a></td></tr>
+    <tr><td>🌱 Digital Garden</td><td>Long-form notes, topic collections, and linked concepts</td><td><a href="https://wiki.likui.space/">wiki.likui.info</a></td></tr>
     <tr><td>💬 Memos</td><td>Capturing ideas, short notes, and everyday observations</td><td><a href="https://blog.zzek.cn/memos/">Open Memos →</a></td></tr>
     <tr><td>🧑‍💻 GitHub</td><td>Source code, learning projects, and open-source experiments</td><td><a href="https://github.com/ilikui?tab=repositories">All repositories →</a></td></tr>
   </tbody>
