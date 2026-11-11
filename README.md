@@ -9,9 +9,9 @@
 <p>I break down complex problems, connect scattered ideas, and turn what I learn into working projects.</p>
 
 <p>
-  <a href="https://likui.info/"><img src="https://img.shields.io/badge/PERSONAL_SITE-likui.info-7C3AED?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Personal website"></a>
-  <a href="https://wiki.likui.info/"><img src="https://img.shields.io/badge/DIGITAL_GARDEN-wiki.likui.info-0891B2?style=for-the-badge&logo=bookstack&logoColor=white" alt="Digital garden"></a>
-  <a href="https://likui.info/#spaces"><img src="https://img.shields.io/badge/TECH_SPACES-EXPLORE-0F766E?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Technical spaces"></a>
+  <a href="https://likui.space/"><img src="https://img.shields.io/badge/PERSONAL_SITE-likui.space-7C3AED?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Personal website"></a>
+  <a href="https://wiki.likui.space/"><img src="https://img.shields.io/badge/DIGITAL_GARDEN-wiki.likui.space-0891B2?style=for-the-badge&logo=bookstack&logoColor=white" alt="Digital garden"></a>
+  <a href="https://likui.space/#spaces"><img src="https://img.shields.io/badge/TECH_SPACES-EXPLORE-0F766E?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Technical spaces"></a>
   <a href="https://github.com/ilikui?tab=repositories"><img src="https://img.shields.io/badge/OPEN_SOURCE-ALL_REPOSITORIES-24292F?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"></a>
 </p>
 
@@ -77,10 +77,10 @@ I work at the intersection of **engineering practice and knowledge systems**. I 
     <tr><th>Space</th><th>Purpose</th><th>Explore</th></tr>
   </thead>
   <tbody>
-    <tr><td>🌐 Personal Website</td><td>Projects, technical spaces, and books, films, and music</td><td><a href="https://m.likui.space/">likui.info</a></td></tr>
-    <tr><td>🧭 Technical Spaces</td><td>Learning hubs organized by technology and subject</td><td><a href="https://likui.info/#spaces">Explore spaces →</a></td></tr>
-    <tr><td>👋 About</td><td>Personal introduction and content directory</td><td><a href="https://about.likui.space/">about.likui.info</a></td></tr>
-    <tr><td>🌱 Digital Garden</td><td>Long-form notes, topic collections, and linked concepts</td><td><a href="https://wiki.likui.space/">wiki.likui.info</a></td></tr>
+    <tr><td>🌐 Personal Website</td><td>Projects, technical spaces, and books, films, and music</td><td><a href="https://m.likui.space/">likui.space</a></td></tr>
+    <tr><td>🧭 Technical Spaces</td><td>Learning hubs organized by technology and subject</td><td><a href="https://likui.space/#spaces">Explore spaces →</a></td></tr>
+    <tr><td>👋 About</td><td>Personal introduction and content directory</td><td><a href="https://about.likui.space/">about.likui.space</a></td></tr>
+    <tr><td>🌱 Digital Garden</td><td>Long-form notes, topic collections, and linked concepts</td><td><a href="https://wiki.likui.space/">wiki.likui.space</a></td></tr>
     <tr><td>💬 Memos</td><td>Capturing ideas, short notes, and everyday observations</td><td><a href="https://blog.zzek.cn/memos/">Open Memos →</a></td></tr>
     <tr><td>🧑‍💻 GitHub</td><td>Source code, learning projects, and open-source experiments</td><td><a href="https://github.com/ilikui?tab=repositories">All repositories →</a></td></tr>
   </tbody>
